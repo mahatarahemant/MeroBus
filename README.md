@@ -7,3 +7,8 @@ Hardware Components used:
  4. Breadboard
  5. LM2596 DC-DC Buck converter(if gsm module used)
  6. Jumper wires
+ 7. L7805 IC voltage regulator
+
+
+
+Contributors: Hemant Mahatara,<&nbsp>Dhiraj Chaurasiya 
