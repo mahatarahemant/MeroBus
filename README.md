@@ -2,7 +2,7 @@
 
 
 # Details:
-- About the app:
+- About the app:<br>
     Merobus is an online app for online tracking of local buses near the user.<br>
 
 - Features:
