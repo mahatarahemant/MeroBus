@@ -22,6 +22,8 @@
   6. Jumper wires
   7. L7805 IC voltage regulator<br><br>
 
+- Hardware connection diagram:
+
 
 - Licenses
 
