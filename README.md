@@ -1,4 +1,6 @@
-#Getting started:<br>
+#Getting started:
+
+
 #Details:
  Hardware Components used: 
   1. Esp-32
