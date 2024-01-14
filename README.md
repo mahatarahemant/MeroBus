@@ -1,5 +1,5 @@
--Getting started:<br>
--Details:
+#Getting started:<br>
+#Details:
  Hardware Components used: 
   1. Esp-32
   2. Sparkfun GNSS receiver
@@ -11,4 +11,4 @@
 
 
 
--Contributors: Hemant Mahatara, Dhiraj Chaurasiya 
+#Contributors: Hemant Mahatara, Dhiraj Chaurasiya 
