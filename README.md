@@ -2,7 +2,7 @@
 
 
 # Details:
- Hardware Components used: 
+-Hardware Components used: 
   1. Esp-32
   2. Sparkfun GNSS receiver
   3. Gsm module (optional)
