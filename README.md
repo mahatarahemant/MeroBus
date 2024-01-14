@@ -2,6 +2,12 @@
 
 
 # Details:
+- About the app:
+    Merobus is an online app for online tracking of local buses near the user.
+- Features:
+    - Real-time tracking of local buses.
+    - Live location updates for users.
+    - Fare Calculation.
 - Hardware Components used: 
   1. Esp-32
   2. Sparkfun GNSS receiver
