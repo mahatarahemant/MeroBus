@@ -10,6 +10,9 @@
     - Live location updates for users.
     - Fare Calculation.<br>
 
+- Screenshots:
+      <ss here>
+
 - Hardware Components used: 
   1. Esp-32
   2. Sparkfun GNSS receiver
@@ -20,5 +23,8 @@
   7. L7805 IC voltage regulator<br><br>
 
 
+- Licenses
+
+- Acknowledgements:
 
 # Contributors: [Hemant Mahatara](https://github.com/mahatarahemant/), [Dhiraj Chaurasiya](https://github.com/dhirajchaurasiya10/) 
