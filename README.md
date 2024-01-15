@@ -16,7 +16,7 @@
 - Hardware Components used:
       <table class="table table-hover table-striped table-bordered">
   <tr align="center">
-   <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/07a8440b-5de1-49e3-a26b-e9d84b1cf3f2" width="250"></td>
+   <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/07a8440b-5de1-49e3-a26b-e9d84b1cf3f2" width="350"></td>
    <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/f35460cf-e4da-46f6-917c-afdc0da7c80d" width="250"></td>
    <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/cccdfadc-70c0-4dd1-a3e5-161513648cb3" width="250"></td>
   </tr>
@@ -38,7 +38,13 @@
 </table>
 
 
-  1. Esp-32<br>
+- Hardware connection diagram:
+
+
+- Licenses
+
+- Acknowledgements:
+       1. Esp-32<br>
   2. Sparkfun u-blox GNSS receiver<br>
         [Documentation](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library)
   3. Gsm module (optional)
@@ -46,12 +52,5 @@
   5. LM2596 DC-DC Buck converter(if gsm module used)
   6. Jumper wires
   7. L7805 IC voltage regulator<br><br>
-
-- Hardware connection diagram:
-
-
-- Licenses
-
-- Acknowledgements:
 
 # Contributors: [Hemant Mahatara](https://github.com/mahatarahemant/), [Dhiraj Chaurasiya](https://github.com/dhirajchaurasiya10/) 
