@@ -30,10 +30,11 @@
           <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/1a0270c2-00a4-4c9b-99a0-c07e766ec140" width="250"></td>
                 <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/0be61ec2-71b7-49df-99fd-6c0904dc5f1d" width="250"></td>
   </tr>
-  <tr align="center"></tr>
+  <tr align="center">
       <td>Breadboard</td>
     <td>Jumper wires</td>
     <td>LM2596 DC-DC Buck Converter(if gsm module used)</td>
+    </tr>
 </table>
 
 
