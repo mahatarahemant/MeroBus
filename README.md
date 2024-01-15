@@ -15,7 +15,9 @@
 
 - Hardware Components used: 
   1. Esp-32
-      https://www.bitstoc.com/wp-content/uploads/2021/10/esp32-nodemcu-esp-32s-aa.jpg
+     - <img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/07a8440b-5de1-49e3-a26b-e9d84b1cf3f2 width="100">
+
+
   3. [Sparkfun u-blox GNSS receiver](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library)
   4. Gsm module (optional)
   5. Breadboard
