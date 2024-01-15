@@ -26,9 +26,9 @@
     <td>Gsm module (optional)</td>
   </tr>
   <tr align="center">
-         <td><a href="https://www.sparkfun.com/products/15210"><img src="https://cdn.sparkfun.com//assets/parts/1/3/6/4/8/15210-SparkFun_GPS_Breakout_-_Chip_Antenna__SAM-M8Q__Qwiic_-01.jpg"></a></td>
-          <td><a href="https://www.sparkfun.com/products/15733"><img src="https://cdn.sparkfun.com//assets/parts/1/4/3/2/2/15733-SparkFun_GPS_Breakout_-_NEO-M9N__Chip_Antenna__Qwiic_-01.jpg"></a></td>
-                <td><a href="https://www.sparkfun.com/products/15733"><img src="https://cdn.sparkfun.com//assets/parts/1/4/3/2/2/15733-SparkFun_GPS_Breakout_-_NEO-M9N__Chip_Antenna__Qwiic_-01.jpg"></a></td>
+         <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/18ae8af7-31df-4a68-a027-e593b41d4e3a" width="250"></td>
+          <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/1a0270c2-00a4-4c9b-99a0-c07e766ec140" width="250"></td>
+                <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/0be61ec2-71b7-49df-99fd-6c0904dc5f1d" width="250"></td>
   </tr>
   <tr align="center"></tr>
       <td>Breadboard</td>
