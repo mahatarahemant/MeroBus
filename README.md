@@ -15,7 +15,7 @@
 
 - Hardware Components used: 
   1. Esp-32
-  2. Sparkfun GNSS receiver
+  2. [Sparkfun u-blox GNSS receiver](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library)
   3. Gsm module (optional)
   4. Breadboard
   5. LM2596 DC-DC Buck converter(if gsm module used)
