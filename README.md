@@ -18,9 +18,10 @@
      <img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/07a8440b-5de1-49e3-a26b-e9d84b1cf3f2" width="250">
 
 
-  2. Sparkfun u-blox GNSS receiver
+  2. Sparkfun u-blox GNSS receiver<br>
+        <img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/f35460cf-e4da-46f6-917c-afdc0da7c80d" width="250"><br>
 
-         [Documentation](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library)
+        [Documentation](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library)
   3. Gsm module (optional)
   4. Breadboard
   5. LM2596 DC-DC Buck converter(if gsm module used)
