@@ -14,7 +14,7 @@
       <ss here>
 
 - Hardware Components used: 
-  1. Esp-32
+  1. Esp-32<br>
      <img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/07a8440b-5de1-49e3-a26b-e9d84b1cf3f2" width="250">
 
 
