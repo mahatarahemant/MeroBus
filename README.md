@@ -15,12 +15,13 @@
 
 - Hardware Components used: 
   1. Esp-32
-  2. [Sparkfun u-blox GNSS receiver](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library)
-  3. Gsm module (optional)
-  4. Breadboard
-  5. LM2596 DC-DC Buck converter(if gsm module used)
-  6. Jumper wires
-  7. L7805 IC voltage regulator<br><br>
+      https://www.bitstoc.com/wp-content/uploads/2021/10/esp32-nodemcu-esp-32s-aa.jpg
+  3. [Sparkfun u-blox GNSS receiver](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library)
+  4. Gsm module (optional)
+  5. Breadboard
+  6. LM2596 DC-DC Buck converter(if gsm module used)
+  7. Jumper wires
+  8. L7805 IC voltage regulator<br><br>
 
 - Hardware connection diagram:
 
