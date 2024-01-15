@@ -16,9 +16,9 @@
 - Hardware Components used:
       <table class="table table-hover table-striped table-bordered">
   <tr align="center">
-   <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/07a8440b-5de1-49e3-a26b-e9d84b1cf3f2" width="250"></td>
-   <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/f35460cf-e4da-46f6-917c-afdc0da7c80d" width="250"></td>
-   <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/cccdfadc-70c0-4dd1-a3e5-161513648cb3" width="250"></td>
+   <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/07a8440b-5de1-49e3-a26b-e9d84b1cf3f2" width="300"></td>
+   <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/f35460cf-e4da-46f6-917c-afdc0da7c80d" width="300"></td>
+   <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/cccdfadc-70c0-4dd1-a3e5-161513648cb3" width="300"></td>
   </tr>
   <tr align="center">
     <td>Esp-32</td>
@@ -26,9 +26,9 @@
     <td>Gsm module (optional)</td>
   </tr>
   <tr align="center">
-         <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/18ae8af7-31df-4a68-a027-e593b41d4e3a" width="250"></td>
-          <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/1a0270c2-00a4-4c9b-99a0-c07e766ec140" width="250"></td>
-                <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/0be61ec2-71b7-49df-99fd-6c0904dc5f1d" width="250"></td>
+         <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/18ae8af7-31df-4a68-a027-e593b41d4e3a" width="300"></td>
+          <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/1a0270c2-00a4-4c9b-99a0-c07e766ec140" width="300"></td>
+                <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/0be61ec2-71b7-49df-99fd-6c0904dc5f1d" width="300"></td>
   </tr>
   <tr align="center">
       <td>Breadboard</td>
