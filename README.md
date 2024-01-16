@@ -35,6 +35,11 @@
     <td>Jumper wires</td>
     <td>LM2596 DC-DC Buck Converter(if gsm module used)</td>
     </tr>
+  <tr align="center"><td>
+      <img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/ecb21a6c-67bb-4880-a14b-645a68607353"></td>
+  </tr>
+  <tr align="center">LM7805 Voltage Regulator</tr>
+  
 </table>
 
 
