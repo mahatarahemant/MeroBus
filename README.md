@@ -53,7 +53,7 @@
 - Licenses
 
 - Acknowledgements:
-       1. Esp-32<br>
+  1. Esp-32<br>
   2. Sparkfun u-blox GNSS receiver<br>
         [Documentation](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library)
   3. Gsm module (optional)
