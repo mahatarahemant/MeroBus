@@ -39,7 +39,7 @@
       <img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/ecb21a6c-67bb-4880-a14b-645a68607353" width="300"></td>
       <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/89e0e0a5-d970-4e48-b1a1-a1e74b95d50a" width="300"</td>
   </tr>
-  <tr align="center">1
+  <tr align="center">
       <td>LM7805 Voltage Regulator</td>
       <td>10µF Capacitor</td>
   </tr>
