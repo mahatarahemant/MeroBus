@@ -41,7 +41,7 @@
   </tr>
   <tr align="center">1
       <td>LM7805 Voltage Regulator</td>
-      <td>10microF Capacitor</td>
+      <td>10µF Capacitor</td>
   </tr>
   
 </table>
