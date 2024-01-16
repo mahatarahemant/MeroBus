@@ -36,7 +36,8 @@
     <td>LM2596 DC-DC Buck Converter(if gsm module used)</td>
     </tr>
   <tr align="center"><td>
-      <img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/ecb21a6c-67bb-4880-a14b-645a68607353"></td>
+      <img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/ecb21a6c-67bb-4880-a14b-645a68607353" width="300"></td>
+      <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/89e0e0a5-d970-4e48-b1a1-a1e74b95d50a" width="300"</td>
   </tr>
   <tr align="center">LM7805 Voltage Regulator</tr>
   
