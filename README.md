@@ -49,7 +49,6 @@
 
 - Hardware connection diagram:
 
-
 - Licenses
 
 - Acknowledgements:
