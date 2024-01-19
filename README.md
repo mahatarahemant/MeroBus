@@ -43,7 +43,7 @@
   <tr align="center">
       <td>LM7805 Voltage Regulator</td>
       <td>10µF Capacitor</td>
-      <td>Battery for powering up</td>
+      <td>Battery</td>
   </tr>
   
 </table>
