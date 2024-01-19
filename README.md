@@ -52,7 +52,7 @@
 - Hardware connection diagram:
   <table class="table table-hover table-striped table-bordered">
       <tr align="center">
-          <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/d354ae60-52bc-44c2-8f39-493c459fd35a" width="300"></td>
+          <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/d354ae60-52bc-44c2-8f39-493c459fd35a" width="700"></td>
       </tr>
   </table>
 
