@@ -38,7 +38,7 @@
   <tr align="center"><td>
       <img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/ecb21a6c-67bb-4880-a14b-645a68607353" width="300"></td>
       <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/89e0e0a5-d970-4e48-b1a1-a1e74b95d50a" width="300"></td>
-      <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/de92cdbb-bdbe-46c1-8fcf-fc7ed741ba2b width="300"></td>
+      <td><img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/9593824a-e4b7-4d9f-84ab-2483193c7a2a" width="300"></td>
   </tr>
   <tr align="center">
       <td>LM7805 Voltage Regulator</td>
