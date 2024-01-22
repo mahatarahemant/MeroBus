@@ -1,5 +1,5 @@
 # Getting started:
-
+- React Native application
 
 # Details:
 - About the app:<br>
