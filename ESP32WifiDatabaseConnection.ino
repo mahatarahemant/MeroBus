@@ -7,6 +7,7 @@ SFE_UBLOX_GNSS myGNSS;
 
 #define led 22
 
+//url of the database of web hosted
 String URL = "http://192.168.254.16/gnss/test_data.php";
 
 const char* ssid = "YOUR WIFI ID";
