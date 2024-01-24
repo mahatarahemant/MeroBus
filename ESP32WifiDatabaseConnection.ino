@@ -102,6 +102,8 @@ void connectWiFi() {
   WiFi.begin(ssid, password);
   Serial.println("Connecting to WiFi");
 
+  //while connecting to wifi remember to press the reset button of ESP-32
+
   while (WiFi.status() != WL_CONNECTED) {
     delay(500),
       Serial.print(".");
