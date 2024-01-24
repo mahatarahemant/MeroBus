@@ -48,7 +48,7 @@
       <td>Battery</td>
   </tr>
   
-</table>
+</table><br><br>
 
 
 - Hardware connection diagram:
