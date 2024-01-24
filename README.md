@@ -11,7 +11,7 @@
     - Fare Calculation.<br>
 
 - Screenshots:<br>
-      <img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/6ef5cce9-eee4-4cde-9af1-0e49a4588313" width="350"></t>
+      <img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/6ef5cce9-eee4-4cde-9af1-0e49a4588313" width="350"></t></t></t>
       <img src="https://github.com/mahatarahemant/MeroBus/assets/106879418/e49fb4bc-025e-47d6-9c7c-d6f9fab6f716" width="350"><br><br>
 
 
