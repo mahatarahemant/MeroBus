@@ -50,7 +50,6 @@
   
 </table><br><br>
 
-
 - Hardware connection diagram:
   <table class="table table-hover table-striped table-bordered">
       <tr align="center">
