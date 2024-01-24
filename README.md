@@ -11,7 +11,7 @@
     - Fare Calculation.<br>
 
 - Screenshots:
-      <ss here>
+      <a href= "https://github.com/mahatarahemant/MeroBus/assets/106879418/6ef5cce9-eee4-4cde-9af1-0e49a4588313" width="350">
 
 - Hardware Components used:
   <table class="table table-hover table-striped table-bordered">
